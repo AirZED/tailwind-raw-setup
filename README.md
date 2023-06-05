@@ -7,4 +7,4 @@ STEPS
 5. npm run build:css 
 
 
-You can also add the watch to effect auto reload
+You can also add the --watch to effect auto reload
